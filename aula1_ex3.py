@@ -15,5 +15,10 @@ print('O resultado da soma de A + B + C é igual a:', A + B + C)"""
 
 print('Exercício 4:')
 salario = int(input('Digite seu salário para receber uma promoção:\n'))
-aumentoSalario = salario+(15/100)
-print('Seu novo salário é igual a:', aumentoSalario)
+aumentoSalario = salario*(15/100)
+novoSalario = salario+aumentoSalario
+print('Seu novo salário é igual a:',novoSalario,'\n')
+
+
+print('Exercício 5:')
+print('Você foi penalizado em 5% do seu bônus:', )
