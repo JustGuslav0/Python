@@ -1,5 +1,5 @@
-#Aula 03 - variáveis
-'''
+#Aula 03 - variaveis
+
 import time
 
 time.sleep(0.3)
@@ -125,23 +125,3 @@ print('segundo: ', segundof)
 print('hora: ', horaf)
 print('dia: ', diaf)
 print('mes: ', mes)
-'''
-
-#Aula boolean
-#Exercício 1
-nota = float(input('Qual sua nota: '))
-aprovado = nota>=7
-print('Aprovado :', aprovado)
-
-#Exercício 2
-salario = float(input('Qual seu salário: '))
-imposto = salario > 1200
-print('Irá pagar imposto? ', imposto)
-
-#Exercício 3
-emprestimo = salario >= 5000
-print('Pode pegar empréstimo? ', emprestimo)
-
-#Exercício 4
-numero = int(input('Seu número: '))
-resto = numero%2

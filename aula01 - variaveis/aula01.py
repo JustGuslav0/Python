@@ -1,7 +1,7 @@
 #Mostra no terminal Hello World
 print("Hello World")
 
-#Separa as variáveis utilizando vírgula
+#Separa as variaveis utilizando vírgula
 print('Hello World', 23)
 
 #Se colocar print() deixa uma linha vazia
