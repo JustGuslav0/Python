@@ -30,5 +30,5 @@ def printa(*args):
         texto += i + ' '
     return texto[:-1]
 
-print(printa('aoba', 'penis'))
+print(printa('limao', 'suco'))
 
