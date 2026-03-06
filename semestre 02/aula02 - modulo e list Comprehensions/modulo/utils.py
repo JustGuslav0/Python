@@ -12,3 +12,9 @@ def revertStr(x):
 
 def cntrPalavras(x):
     contador = 0
+    if len(x) == 0:
+        return 0
+    for i in x:
+        if i == ' ':
+            contador += 1
+    return contador + 1
