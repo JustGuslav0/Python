@@ -32,3 +32,6 @@ dic_a = ["A", "B"]
 dic_b = ["A", "B"]
 a = dict(zip(dic_a,dic_b))
 print(a)
+
+
+#Para separar string
